@@ -1,0 +1,12 @@
+ex06
+
+?/20
+
+SVPL utilisez le dossier lib  (voir mes exemples)
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+Use two Dart files, one to define all functions, 
+the other to prepare function arguments and use the main function. 
+The print function may be used only in the prepare functions. 
+Follow Dart Style Guide.
