@@ -1,5 +1,40 @@
 ex06
 
+14/20
+
+-1
+main ne doit pas figurer dans le fichier où library est définie
+s'il vous plaît utiliser print seulement dans main
+
+-2
+pas de lib
+
+-1
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+num_01 --> num01
+...
+
+-1
+s'il vous plaît utiliser les types de paramètres des fonctions
+num_01(var palin) { --> num_01(String palin) {
+...
+
+6.2
+La différence en jour entre ces deux dates est 30 jours
+s'il vous plaît indiquer les dates
+
+6.4
+s'il vous plaît afficher la liste d'entrée
+
+-1
+6.5
+utilisation des positions d'éléments de liste n'est pas une solution générique
+List joueurs = [['Jordan', 'Bulls'], ...], ...
+List clubs = ['Bulls', ...
+
+
+---
+
 ?/20
 
 SVPL utilisez le dossier lib  (voir mes exemples)
